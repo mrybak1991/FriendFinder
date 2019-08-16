@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/mrybak1991/FriendFinder/issues"
   },
-  "homepage": "https://github.com/mrybak1991/FriendFinder#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/mrybak1991/FriendFinder#readme"
 }
